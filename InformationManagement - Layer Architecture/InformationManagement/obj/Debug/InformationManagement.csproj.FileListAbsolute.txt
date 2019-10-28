@@ -1,0 +1,213 @@
+C:\Phase 2\Batch 9\Day 11\InformationManagement\InformationManagement\bin\InformationManagement.dll.config
+C:\Phase 2\Batch 9\Day 11\InformationManagement\InformationManagement\bin\InformationManagement.dll
+C:\Phase 2\Batch 9\Day 11\InformationManagement\InformationManagement\bin\InformationManagement.pdb
+C:\Phase 2\Batch 9\Day 11\InformationManagement\InformationManagement\bin\roslyn\csc.exe
+C:\Phase 2\Batch 9\Day 11\InformationManagement\InformationManagement\bin\roslyn\csc.exe.config
+C:\Phase 2\Batch 9\Day 11\InformationManagement\InformationManagement\bin\roslyn\csc.rsp
+C:\Phase 2\Batch 9\Day 11\InformationManagement\InformationManagement\bin\roslyn\csi.exe
+C:\Phase 2\Batch 9\Day 11\InformationManagement\InformationManagement\bin\roslyn\csi.exe.config
+C:\Phase 2\Batch 9\Day 11\InformationManagement\InformationManagement\bin\roslyn\csi.rsp
+C:\Phase 2\Batch 9\Day 11\InformationManagement\InformationManagement\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Phase 2\Batch 9\Day 11\InformationManagement\InformationManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Phase 2\Batch 9\Day 11\InformationManagement\InformationManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Phase 2\Batch 9\Day 11\InformationManagement\InformationManagement\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Phase 2\Batch 9\Day 11\InformationManagement\InformationManagement\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Phase 2\Batch 9\Day 11\InformationManagement\InformationManagement\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Phase 2\Batch 9\Day 11\InformationManagement\InformationManagement\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Phase 2\Batch 9\Day 11\InformationManagement\InformationManagement\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Phase 2\Batch 9\Day 11\InformationManagement\InformationManagement\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Phase 2\Batch 9\Day 11\InformationManagement\InformationManagement\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Phase 2\Batch 9\Day 11\InformationManagement\InformationManagement\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Phase 2\Batch 9\Day 11\InformationManagement\InformationManagement\bin\roslyn\System.AppContext.dll
+C:\Phase 2\Batch 9\Day 11\InformationManagement\InformationManagement\bin\roslyn\System.Collections.Immutable.dll
+C:\Phase 2\Batch 9\Day 11\InformationManagement\InformationManagement\bin\roslyn\System.Console.dll
+C:\Phase 2\Batch 9\Day 11\InformationManagement\InformationManagement\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Phase 2\Batch 9\Day 11\InformationManagement\InformationManagement\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Phase 2\Batch 9\Day 11\InformationManagement\InformationManagement\bin\roslyn\System.IO.Compression.dll
+C:\Phase 2\Batch 9\Day 11\InformationManagement\InformationManagement\bin\roslyn\System.IO.FileSystem.dll
+C:\Phase 2\Batch 9\Day 11\InformationManagement\InformationManagement\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Phase 2\Batch 9\Day 11\InformationManagement\InformationManagement\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Phase 2\Batch 9\Day 11\InformationManagement\InformationManagement\bin\roslyn\System.IO.Pipes.dll
+C:\Phase 2\Batch 9\Day 11\InformationManagement\InformationManagement\bin\roslyn\System.Reflection.Metadata.dll
+C:\Phase 2\Batch 9\Day 11\InformationManagement\InformationManagement\bin\roslyn\System.Security.AccessControl.dll
+C:\Phase 2\Batch 9\Day 11\InformationManagement\InformationManagement\bin\roslyn\System.Security.Claims.dll
+C:\Phase 2\Batch 9\Day 11\InformationManagement\InformationManagement\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Phase 2\Batch 9\Day 11\InformationManagement\InformationManagement\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Phase 2\Batch 9\Day 11\InformationManagement\InformationManagement\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Phase 2\Batch 9\Day 11\InformationManagement\InformationManagement\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Phase 2\Batch 9\Day 11\InformationManagement\InformationManagement\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Phase 2\Batch 9\Day 11\InformationManagement\InformationManagement\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Phase 2\Batch 9\Day 11\InformationManagement\InformationManagement\bin\roslyn\System.ValueTuple.dll
+C:\Phase 2\Batch 9\Day 11\InformationManagement\InformationManagement\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Phase 2\Batch 9\Day 11\InformationManagement\InformationManagement\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Phase 2\Batch 9\Day 11\InformationManagement\InformationManagement\bin\roslyn\System.Xml.XPath.dll
+C:\Phase 2\Batch 9\Day 11\InformationManagement\InformationManagement\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Phase 2\Batch 9\Day 11\InformationManagement\InformationManagement\bin\roslyn\vbc.exe
+C:\Phase 2\Batch 9\Day 11\InformationManagement\InformationManagement\bin\roslyn\vbc.exe.config
+C:\Phase 2\Batch 9\Day 11\InformationManagement\InformationManagement\bin\roslyn\vbc.rsp
+C:\Phase 2\Batch 9\Day 11\InformationManagement\InformationManagement\bin\roslyn\VBCSCompiler.exe
+C:\Phase 2\Batch 9\Day 11\InformationManagement\InformationManagement\bin\roslyn\VBCSCompiler.exe.config
+C:\Phase 2\Batch 9\Day 11\InformationManagement\InformationManagement\bin\Antlr3.Runtime.dll
+C:\Phase 2\Batch 9\Day 11\InformationManagement\InformationManagement\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Phase 2\Batch 9\Day 11\InformationManagement\InformationManagement\bin\AspNet.ScriptManager.jQuery.dll
+C:\Phase 2\Batch 9\Day 11\InformationManagement\InformationManagement\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Phase 2\Batch 9\Day 11\InformationManagement\InformationManagement\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Phase 2\Batch 9\Day 11\InformationManagement\InformationManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Phase 2\Batch 9\Day 11\InformationManagement\InformationManagement\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Phase 2\Batch 9\Day 11\InformationManagement\InformationManagement\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Phase 2\Batch 9\Day 11\InformationManagement\InformationManagement\bin\Microsoft.Web.Infrastructure.dll
+C:\Phase 2\Batch 9\Day 11\InformationManagement\InformationManagement\bin\Newtonsoft.Json.dll
+C:\Phase 2\Batch 9\Day 11\InformationManagement\InformationManagement\bin\System.Web.Optimization.dll
+C:\Phase 2\Batch 9\Day 11\InformationManagement\InformationManagement\bin\WebGrease.dll
+C:\Phase 2\Batch 9\Day 11\InformationManagement\InformationManagement\bin\System.Web.Optimization.xml
+C:\Phase 2\Batch 9\Day 11\InformationManagement\InformationManagement\bin\Newtonsoft.Json.xml
+C:\Phase 2\Batch 9\Day 11\InformationManagement\InformationManagement\bin\Antlr3.Runtime.pdb
+C:\Phase 2\Batch 9\Day 11\InformationManagement\InformationManagement\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Phase 2\Batch 9\Day 11\InformationManagement\InformationManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Phase 2\Batch 9\Day 11\InformationManagement\InformationManagement\obj\Debug\InformationManagement.csprojAssemblyReference.cache
+C:\Phase 2\Batch 9\Day 11\InformationManagement\InformationManagement\obj\Debug\InformationManagement.csproj.CoreCompileInputs.cache
+C:\Phase 2\Batch 9\Day 11\InformationManagement\InformationManagement\obj\Debug\InformationManagement.csproj.CopyComplete
+C:\Phase 2\Batch 9\Day 11\InformationManagement\InformationManagement\obj\Debug\InformationManagement.dll
+C:\Phase 2\Batch 9\Day 11\InformationManagement\InformationManagement\obj\Debug\InformationManagement.pdb
+C:\Phase 2\Batch 9\Day 14\InformationManagement - Layer Architecture\InformationManagement\obj\Debug\InformationManagement.csproj.CoreCompileInputs.cache
+C:\Phase 2\Batch 9\Day 14\InformationManagement - Layer Architecture\InformationManagement\obj\Debug\InformationManagement.dll
+C:\Phase 2\Batch 9\Day 14\InformationManagement - Layer Architecture\InformationManagement\obj\Debug\InformationManagement.pdb
+C:\Phase 2\Batch 9\Day 14\InformationManagement - Layer Architecture\InformationManagement\bin\InformationManagement.dll.config
+C:\Phase 2\Batch 9\Day 14\InformationManagement - Layer Architecture\InformationManagement\bin\InformationManagement.dll
+C:\Phase 2\Batch 9\Day 14\InformationManagement - Layer Architecture\InformationManagement\bin\InformationManagement.pdb
+C:\Phase 2\Batch 9\Day 14\InformationManagement - Layer Architecture\InformationManagement\bin\roslyn\csc.exe
+C:\Phase 2\Batch 9\Day 14\InformationManagement - Layer Architecture\InformationManagement\bin\roslyn\csc.exe.config
+C:\Phase 2\Batch 9\Day 14\InformationManagement - Layer Architecture\InformationManagement\bin\roslyn\csc.rsp
+C:\Phase 2\Batch 9\Day 14\InformationManagement - Layer Architecture\InformationManagement\bin\roslyn\csi.exe
+C:\Phase 2\Batch 9\Day 14\InformationManagement - Layer Architecture\InformationManagement\bin\roslyn\csi.exe.config
+C:\Phase 2\Batch 9\Day 14\InformationManagement - Layer Architecture\InformationManagement\bin\roslyn\csi.rsp
+C:\Phase 2\Batch 9\Day 14\InformationManagement - Layer Architecture\InformationManagement\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Phase 2\Batch 9\Day 14\InformationManagement - Layer Architecture\InformationManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Phase 2\Batch 9\Day 14\InformationManagement - Layer Architecture\InformationManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Phase 2\Batch 9\Day 14\InformationManagement - Layer Architecture\InformationManagement\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Phase 2\Batch 9\Day 14\InformationManagement - Layer Architecture\InformationManagement\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Phase 2\Batch 9\Day 14\InformationManagement - Layer Architecture\InformationManagement\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Phase 2\Batch 9\Day 14\InformationManagement - Layer Architecture\InformationManagement\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Phase 2\Batch 9\Day 14\InformationManagement - Layer Architecture\InformationManagement\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Phase 2\Batch 9\Day 14\InformationManagement - Layer Architecture\InformationManagement\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Phase 2\Batch 9\Day 14\InformationManagement - Layer Architecture\InformationManagement\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Phase 2\Batch 9\Day 14\InformationManagement - Layer Architecture\InformationManagement\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Phase 2\Batch 9\Day 14\InformationManagement - Layer Architecture\InformationManagement\bin\roslyn\System.AppContext.dll
+C:\Phase 2\Batch 9\Day 14\InformationManagement - Layer Architecture\InformationManagement\bin\roslyn\System.Collections.Immutable.dll
+C:\Phase 2\Batch 9\Day 14\InformationManagement - Layer Architecture\InformationManagement\bin\roslyn\System.Console.dll
+C:\Phase 2\Batch 9\Day 14\InformationManagement - Layer Architecture\InformationManagement\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Phase 2\Batch 9\Day 14\InformationManagement - Layer Architecture\InformationManagement\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Phase 2\Batch 9\Day 14\InformationManagement - Layer Architecture\InformationManagement\bin\roslyn\System.IO.Compression.dll
+C:\Phase 2\Batch 9\Day 14\InformationManagement - Layer Architecture\InformationManagement\bin\roslyn\System.IO.FileSystem.dll
+C:\Phase 2\Batch 9\Day 14\InformationManagement - Layer Architecture\InformationManagement\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Phase 2\Batch 9\Day 14\InformationManagement - Layer Architecture\InformationManagement\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Phase 2\Batch 9\Day 14\InformationManagement - Layer Architecture\InformationManagement\bin\roslyn\System.IO.Pipes.dll
+C:\Phase 2\Batch 9\Day 14\InformationManagement - Layer Architecture\InformationManagement\bin\roslyn\System.Reflection.Metadata.dll
+C:\Phase 2\Batch 9\Day 14\InformationManagement - Layer Architecture\InformationManagement\bin\roslyn\System.Security.AccessControl.dll
+C:\Phase 2\Batch 9\Day 14\InformationManagement - Layer Architecture\InformationManagement\bin\roslyn\System.Security.Claims.dll
+C:\Phase 2\Batch 9\Day 14\InformationManagement - Layer Architecture\InformationManagement\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Phase 2\Batch 9\Day 14\InformationManagement - Layer Architecture\InformationManagement\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Phase 2\Batch 9\Day 14\InformationManagement - Layer Architecture\InformationManagement\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Phase 2\Batch 9\Day 14\InformationManagement - Layer Architecture\InformationManagement\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Phase 2\Batch 9\Day 14\InformationManagement - Layer Architecture\InformationManagement\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Phase 2\Batch 9\Day 14\InformationManagement - Layer Architecture\InformationManagement\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Phase 2\Batch 9\Day 14\InformationManagement - Layer Architecture\InformationManagement\bin\roslyn\System.ValueTuple.dll
+C:\Phase 2\Batch 9\Day 14\InformationManagement - Layer Architecture\InformationManagement\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Phase 2\Batch 9\Day 14\InformationManagement - Layer Architecture\InformationManagement\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Phase 2\Batch 9\Day 14\InformationManagement - Layer Architecture\InformationManagement\bin\roslyn\System.Xml.XPath.dll
+C:\Phase 2\Batch 9\Day 14\InformationManagement - Layer Architecture\InformationManagement\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Phase 2\Batch 9\Day 14\InformationManagement - Layer Architecture\InformationManagement\bin\roslyn\vbc.exe
+C:\Phase 2\Batch 9\Day 14\InformationManagement - Layer Architecture\InformationManagement\bin\roslyn\vbc.exe.config
+C:\Phase 2\Batch 9\Day 14\InformationManagement - Layer Architecture\InformationManagement\bin\roslyn\vbc.rsp
+C:\Phase 2\Batch 9\Day 14\InformationManagement - Layer Architecture\InformationManagement\bin\roslyn\VBCSCompiler.exe
+C:\Phase 2\Batch 9\Day 14\InformationManagement - Layer Architecture\InformationManagement\bin\roslyn\VBCSCompiler.exe.config
+C:\Phase 2\Batch 9\Day 14\InformationManagement - Layer Architecture\InformationManagement\bin\Antlr3.Runtime.dll
+C:\Phase 2\Batch 9\Day 14\InformationManagement - Layer Architecture\InformationManagement\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Phase 2\Batch 9\Day 14\InformationManagement - Layer Architecture\InformationManagement\bin\AspNet.ScriptManager.jQuery.dll
+C:\Phase 2\Batch 9\Day 14\InformationManagement - Layer Architecture\InformationManagement\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Phase 2\Batch 9\Day 14\InformationManagement - Layer Architecture\InformationManagement\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Phase 2\Batch 9\Day 14\InformationManagement - Layer Architecture\InformationManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Phase 2\Batch 9\Day 14\InformationManagement - Layer Architecture\InformationManagement\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Phase 2\Batch 9\Day 14\InformationManagement - Layer Architecture\InformationManagement\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Phase 2\Batch 9\Day 14\InformationManagement - Layer Architecture\InformationManagement\bin\Microsoft.Web.Infrastructure.dll
+C:\Phase 2\Batch 9\Day 14\InformationManagement - Layer Architecture\InformationManagement\bin\Newtonsoft.Json.dll
+C:\Phase 2\Batch 9\Day 14\InformationManagement - Layer Architecture\InformationManagement\bin\System.Web.Optimization.dll
+C:\Phase 2\Batch 9\Day 14\InformationManagement - Layer Architecture\InformationManagement\bin\WebGrease.dll
+C:\Phase 2\Batch 9\Day 14\InformationManagement - Layer Architecture\InformationManagement\bin\System.Web.Optimization.xml
+C:\Phase 2\Batch 9\Day 14\InformationManagement - Layer Architecture\InformationManagement\bin\Newtonsoft.Json.xml
+C:\Phase 2\Batch 9\Day 14\InformationManagement - Layer Architecture\InformationManagement\bin\Antlr3.Runtime.pdb
+C:\Phase 2\Batch 9\Day 14\InformationManagement - Layer Architecture\InformationManagement\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Phase 2\Batch 9\Day 14\InformationManagement - Layer Architecture\InformationManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Phase 2\Batch 9\Day 14\InformationManagement - Layer Architecture\InformationManagement\obj\Debug\InformationManagement.csproj.CopyComplete
+C:\Phase 2\Batch 9\Day 14\InformationManagement - Layer Architecture\InformationManagement\obj\Debug\InformationManagement.csprojAssemblyReference.cache
+C:\Phase 2\Batch 9\Day - 15\InformationManagement - Layer Architecture\InformationManagement\bin\InformationManagement.dll.config
+C:\Phase 2\Batch 9\Day - 15\InformationManagement - Layer Architecture\InformationManagement\bin\InformationManagement.dll
+C:\Phase 2\Batch 9\Day - 15\InformationManagement - Layer Architecture\InformationManagement\bin\InformationManagement.pdb
+C:\Phase 2\Batch 9\Day - 15\InformationManagement - Layer Architecture\InformationManagement\bin\roslyn\csc.exe
+C:\Phase 2\Batch 9\Day - 15\InformationManagement - Layer Architecture\InformationManagement\bin\roslyn\csc.exe.config
+C:\Phase 2\Batch 9\Day - 15\InformationManagement - Layer Architecture\InformationManagement\bin\roslyn\csc.rsp
+C:\Phase 2\Batch 9\Day - 15\InformationManagement - Layer Architecture\InformationManagement\bin\roslyn\csi.exe
+C:\Phase 2\Batch 9\Day - 15\InformationManagement - Layer Architecture\InformationManagement\bin\roslyn\csi.exe.config
+C:\Phase 2\Batch 9\Day - 15\InformationManagement - Layer Architecture\InformationManagement\bin\roslyn\csi.rsp
+C:\Phase 2\Batch 9\Day - 15\InformationManagement - Layer Architecture\InformationManagement\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Phase 2\Batch 9\Day - 15\InformationManagement - Layer Architecture\InformationManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Phase 2\Batch 9\Day - 15\InformationManagement - Layer Architecture\InformationManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Phase 2\Batch 9\Day - 15\InformationManagement - Layer Architecture\InformationManagement\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Phase 2\Batch 9\Day - 15\InformationManagement - Layer Architecture\InformationManagement\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Phase 2\Batch 9\Day - 15\InformationManagement - Layer Architecture\InformationManagement\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Phase 2\Batch 9\Day - 15\InformationManagement - Layer Architecture\InformationManagement\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Phase 2\Batch 9\Day - 15\InformationManagement - Layer Architecture\InformationManagement\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Phase 2\Batch 9\Day - 15\InformationManagement - Layer Architecture\InformationManagement\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Phase 2\Batch 9\Day - 15\InformationManagement - Layer Architecture\InformationManagement\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Phase 2\Batch 9\Day - 15\InformationManagement - Layer Architecture\InformationManagement\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Phase 2\Batch 9\Day - 15\InformationManagement - Layer Architecture\InformationManagement\bin\roslyn\System.AppContext.dll
+C:\Phase 2\Batch 9\Day - 15\InformationManagement - Layer Architecture\InformationManagement\bin\roslyn\System.Collections.Immutable.dll
+C:\Phase 2\Batch 9\Day - 15\InformationManagement - Layer Architecture\InformationManagement\bin\roslyn\System.Console.dll
+C:\Phase 2\Batch 9\Day - 15\InformationManagement - Layer Architecture\InformationManagement\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Phase 2\Batch 9\Day - 15\InformationManagement - Layer Architecture\InformationManagement\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Phase 2\Batch 9\Day - 15\InformationManagement - Layer Architecture\InformationManagement\bin\roslyn\System.IO.Compression.dll
+C:\Phase 2\Batch 9\Day - 15\InformationManagement - Layer Architecture\InformationManagement\bin\roslyn\System.IO.FileSystem.dll
+C:\Phase 2\Batch 9\Day - 15\InformationManagement - Layer Architecture\InformationManagement\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Phase 2\Batch 9\Day - 15\InformationManagement - Layer Architecture\InformationManagement\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Phase 2\Batch 9\Day - 15\InformationManagement - Layer Architecture\InformationManagement\bin\roslyn\System.IO.Pipes.dll
+C:\Phase 2\Batch 9\Day - 15\InformationManagement - Layer Architecture\InformationManagement\bin\roslyn\System.Reflection.Metadata.dll
+C:\Phase 2\Batch 9\Day - 15\InformationManagement - Layer Architecture\InformationManagement\bin\roslyn\System.Security.AccessControl.dll
+C:\Phase 2\Batch 9\Day - 15\InformationManagement - Layer Architecture\InformationManagement\bin\roslyn\System.Security.Claims.dll
+C:\Phase 2\Batch 9\Day - 15\InformationManagement - Layer Architecture\InformationManagement\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Phase 2\Batch 9\Day - 15\InformationManagement - Layer Architecture\InformationManagement\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Phase 2\Batch 9\Day - 15\InformationManagement - Layer Architecture\InformationManagement\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Phase 2\Batch 9\Day - 15\InformationManagement - Layer Architecture\InformationManagement\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Phase 2\Batch 9\Day - 15\InformationManagement - Layer Architecture\InformationManagement\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Phase 2\Batch 9\Day - 15\InformationManagement - Layer Architecture\InformationManagement\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Phase 2\Batch 9\Day - 15\InformationManagement - Layer Architecture\InformationManagement\bin\roslyn\System.ValueTuple.dll
+C:\Phase 2\Batch 9\Day - 15\InformationManagement - Layer Architecture\InformationManagement\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Phase 2\Batch 9\Day - 15\InformationManagement - Layer Architecture\InformationManagement\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Phase 2\Batch 9\Day - 15\InformationManagement - Layer Architecture\InformationManagement\bin\roslyn\System.Xml.XPath.dll
+C:\Phase 2\Batch 9\Day - 15\InformationManagement - Layer Architecture\InformationManagement\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Phase 2\Batch 9\Day - 15\InformationManagement - Layer Architecture\InformationManagement\bin\roslyn\vbc.exe
+C:\Phase 2\Batch 9\Day - 15\InformationManagement - Layer Architecture\InformationManagement\bin\roslyn\vbc.exe.config
+C:\Phase 2\Batch 9\Day - 15\InformationManagement - Layer Architecture\InformationManagement\bin\roslyn\vbc.rsp
+C:\Phase 2\Batch 9\Day - 15\InformationManagement - Layer Architecture\InformationManagement\bin\roslyn\VBCSCompiler.exe
+C:\Phase 2\Batch 9\Day - 15\InformationManagement - Layer Architecture\InformationManagement\bin\roslyn\VBCSCompiler.exe.config
+C:\Phase 2\Batch 9\Day - 15\InformationManagement - Layer Architecture\InformationManagement\bin\Antlr3.Runtime.dll
+C:\Phase 2\Batch 9\Day - 15\InformationManagement - Layer Architecture\InformationManagement\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Phase 2\Batch 9\Day - 15\InformationManagement - Layer Architecture\InformationManagement\bin\AspNet.ScriptManager.jQuery.dll
+C:\Phase 2\Batch 9\Day - 15\InformationManagement - Layer Architecture\InformationManagement\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Phase 2\Batch 9\Day - 15\InformationManagement - Layer Architecture\InformationManagement\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Phase 2\Batch 9\Day - 15\InformationManagement - Layer Architecture\InformationManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Phase 2\Batch 9\Day - 15\InformationManagement - Layer Architecture\InformationManagement\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Phase 2\Batch 9\Day - 15\InformationManagement - Layer Architecture\InformationManagement\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Phase 2\Batch 9\Day - 15\InformationManagement - Layer Architecture\InformationManagement\bin\Microsoft.Web.Infrastructure.dll
+C:\Phase 2\Batch 9\Day - 15\InformationManagement - Layer Architecture\InformationManagement\bin\Newtonsoft.Json.dll
+C:\Phase 2\Batch 9\Day - 15\InformationManagement - Layer Architecture\InformationManagement\bin\System.Web.Optimization.dll
+C:\Phase 2\Batch 9\Day - 15\InformationManagement - Layer Architecture\InformationManagement\bin\WebGrease.dll
+C:\Phase 2\Batch 9\Day - 15\InformationManagement - Layer Architecture\InformationManagement\bin\System.Web.Optimization.xml
+C:\Phase 2\Batch 9\Day - 15\InformationManagement - Layer Architecture\InformationManagement\bin\Newtonsoft.Json.xml
+C:\Phase 2\Batch 9\Day - 15\InformationManagement - Layer Architecture\InformationManagement\bin\Antlr3.Runtime.pdb
+C:\Phase 2\Batch 9\Day - 15\InformationManagement - Layer Architecture\InformationManagement\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Phase 2\Batch 9\Day - 15\InformationManagement - Layer Architecture\InformationManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Phase 2\Batch 9\Day - 15\InformationManagement - Layer Architecture\InformationManagement\obj\Debug\InformationManagement.csprojAssemblyReference.cache
+C:\Phase 2\Batch 9\Day - 15\InformationManagement - Layer Architecture\InformationManagement\obj\Debug\InformationManagement.csproj.CoreCompileInputs.cache
+C:\Phase 2\Batch 9\Day - 15\InformationManagement - Layer Architecture\InformationManagement\obj\Debug\InformationManagement.csproj.CopyComplete
+C:\Phase 2\Batch 9\Day - 15\InformationManagement - Layer Architecture\InformationManagement\obj\Debug\InformationManagement.dll
+C:\Phase 2\Batch 9\Day - 15\InformationManagement - Layer Architecture\InformationManagement\obj\Debug\InformationManagement.pdb

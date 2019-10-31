@@ -1,0 +1,142 @@
+C:\Users\Web App Develop .Net\Desktop\Himu\MobileInformationKeeper\MobileInformationKeeper\bin\MobileInformationKeeper.dll.config
+C:\Users\Web App Develop .Net\Desktop\Himu\MobileInformationKeeper\MobileInformationKeeper\bin\MobileInformationKeeper.dll
+C:\Users\Web App Develop .Net\Desktop\Himu\MobileInformationKeeper\MobileInformationKeeper\bin\MobileInformationKeeper.pdb
+C:\Users\Web App Develop .Net\Desktop\Himu\MobileInformationKeeper\MobileInformationKeeper\bin\roslyn\csc.exe
+C:\Users\Web App Develop .Net\Desktop\Himu\MobileInformationKeeper\MobileInformationKeeper\bin\roslyn\csc.exe.config
+C:\Users\Web App Develop .Net\Desktop\Himu\MobileInformationKeeper\MobileInformationKeeper\bin\roslyn\csc.rsp
+C:\Users\Web App Develop .Net\Desktop\Himu\MobileInformationKeeper\MobileInformationKeeper\bin\roslyn\csi.exe
+C:\Users\Web App Develop .Net\Desktop\Himu\MobileInformationKeeper\MobileInformationKeeper\bin\roslyn\csi.exe.config
+C:\Users\Web App Develop .Net\Desktop\Himu\MobileInformationKeeper\MobileInformationKeeper\bin\roslyn\csi.rsp
+C:\Users\Web App Develop .Net\Desktop\Himu\MobileInformationKeeper\MobileInformationKeeper\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Web App Develop .Net\Desktop\Himu\MobileInformationKeeper\MobileInformationKeeper\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Web App Develop .Net\Desktop\Himu\MobileInformationKeeper\MobileInformationKeeper\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Web App Develop .Net\Desktop\Himu\MobileInformationKeeper\MobileInformationKeeper\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Web App Develop .Net\Desktop\Himu\MobileInformationKeeper\MobileInformationKeeper\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Web App Develop .Net\Desktop\Himu\MobileInformationKeeper\MobileInformationKeeper\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Web App Develop .Net\Desktop\Himu\MobileInformationKeeper\MobileInformationKeeper\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Web App Develop .Net\Desktop\Himu\MobileInformationKeeper\MobileInformationKeeper\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Web App Develop .Net\Desktop\Himu\MobileInformationKeeper\MobileInformationKeeper\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Web App Develop .Net\Desktop\Himu\MobileInformationKeeper\MobileInformationKeeper\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Web App Develop .Net\Desktop\Himu\MobileInformationKeeper\MobileInformationKeeper\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Web App Develop .Net\Desktop\Himu\MobileInformationKeeper\MobileInformationKeeper\bin\roslyn\System.AppContext.dll
+C:\Users\Web App Develop .Net\Desktop\Himu\MobileInformationKeeper\MobileInformationKeeper\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Web App Develop .Net\Desktop\Himu\MobileInformationKeeper\MobileInformationKeeper\bin\roslyn\System.Console.dll
+C:\Users\Web App Develop .Net\Desktop\Himu\MobileInformationKeeper\MobileInformationKeeper\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Web App Develop .Net\Desktop\Himu\MobileInformationKeeper\MobileInformationKeeper\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Web App Develop .Net\Desktop\Himu\MobileInformationKeeper\MobileInformationKeeper\bin\roslyn\System.IO.Compression.dll
+C:\Users\Web App Develop .Net\Desktop\Himu\MobileInformationKeeper\MobileInformationKeeper\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Web App Develop .Net\Desktop\Himu\MobileInformationKeeper\MobileInformationKeeper\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Web App Develop .Net\Desktop\Himu\MobileInformationKeeper\MobileInformationKeeper\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Web App Develop .Net\Desktop\Himu\MobileInformationKeeper\MobileInformationKeeper\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Web App Develop .Net\Desktop\Himu\MobileInformationKeeper\MobileInformationKeeper\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Web App Develop .Net\Desktop\Himu\MobileInformationKeeper\MobileInformationKeeper\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Web App Develop .Net\Desktop\Himu\MobileInformationKeeper\MobileInformationKeeper\bin\roslyn\System.Security.Claims.dll
+C:\Users\Web App Develop .Net\Desktop\Himu\MobileInformationKeeper\MobileInformationKeeper\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Web App Develop .Net\Desktop\Himu\MobileInformationKeeper\MobileInformationKeeper\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Web App Develop .Net\Desktop\Himu\MobileInformationKeeper\MobileInformationKeeper\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Web App Develop .Net\Desktop\Himu\MobileInformationKeeper\MobileInformationKeeper\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Web App Develop .Net\Desktop\Himu\MobileInformationKeeper\MobileInformationKeeper\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Web App Develop .Net\Desktop\Himu\MobileInformationKeeper\MobileInformationKeeper\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Web App Develop .Net\Desktop\Himu\MobileInformationKeeper\MobileInformationKeeper\bin\roslyn\System.ValueTuple.dll
+C:\Users\Web App Develop .Net\Desktop\Himu\MobileInformationKeeper\MobileInformationKeeper\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Web App Develop .Net\Desktop\Himu\MobileInformationKeeper\MobileInformationKeeper\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Web App Develop .Net\Desktop\Himu\MobileInformationKeeper\MobileInformationKeeper\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Web App Develop .Net\Desktop\Himu\MobileInformationKeeper\MobileInformationKeeper\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Web App Develop .Net\Desktop\Himu\MobileInformationKeeper\MobileInformationKeeper\bin\roslyn\vbc.exe
+C:\Users\Web App Develop .Net\Desktop\Himu\MobileInformationKeeper\MobileInformationKeeper\bin\roslyn\vbc.exe.config
+C:\Users\Web App Develop .Net\Desktop\Himu\MobileInformationKeeper\MobileInformationKeeper\bin\roslyn\vbc.rsp
+C:\Users\Web App Develop .Net\Desktop\Himu\MobileInformationKeeper\MobileInformationKeeper\bin\roslyn\VBCSCompiler.exe
+C:\Users\Web App Develop .Net\Desktop\Himu\MobileInformationKeeper\MobileInformationKeeper\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Web App Develop .Net\Desktop\Himu\MobileInformationKeeper\MobileInformationKeeper\bin\Antlr3.Runtime.dll
+C:\Users\Web App Develop .Net\Desktop\Himu\MobileInformationKeeper\MobileInformationKeeper\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Web App Develop .Net\Desktop\Himu\MobileInformationKeeper\MobileInformationKeeper\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Web App Develop .Net\Desktop\Himu\MobileInformationKeeper\MobileInformationKeeper\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Web App Develop .Net\Desktop\Himu\MobileInformationKeeper\MobileInformationKeeper\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Web App Develop .Net\Desktop\Himu\MobileInformationKeeper\MobileInformationKeeper\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Web App Develop .Net\Desktop\Himu\MobileInformationKeeper\MobileInformationKeeper\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Web App Develop .Net\Desktop\Himu\MobileInformationKeeper\MobileInformationKeeper\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Web App Develop .Net\Desktop\Himu\MobileInformationKeeper\MobileInformationKeeper\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Web App Develop .Net\Desktop\Himu\MobileInformationKeeper\MobileInformationKeeper\bin\Newtonsoft.Json.dll
+C:\Users\Web App Develop .Net\Desktop\Himu\MobileInformationKeeper\MobileInformationKeeper\bin\System.Web.Optimization.dll
+C:\Users\Web App Develop .Net\Desktop\Himu\MobileInformationKeeper\MobileInformationKeeper\bin\WebGrease.dll
+C:\Users\Web App Develop .Net\Desktop\Himu\MobileInformationKeeper\MobileInformationKeeper\bin\System.Web.Optimization.xml
+C:\Users\Web App Develop .Net\Desktop\Himu\MobileInformationKeeper\MobileInformationKeeper\bin\Newtonsoft.Json.xml
+C:\Users\Web App Develop .Net\Desktop\Himu\MobileInformationKeeper\MobileInformationKeeper\bin\Antlr3.Runtime.pdb
+C:\Users\Web App Develop .Net\Desktop\Himu\MobileInformationKeeper\MobileInformationKeeper\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Web App Develop .Net\Desktop\Himu\MobileInformationKeeper\MobileInformationKeeper\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Web App Develop .Net\Desktop\Himu\MobileInformationKeeper\MobileInformationKeeper\obj\Debug\MobileInformationKeeper.csprojAssemblyReference.cache
+C:\Users\Web App Develop .Net\Desktop\Himu\MobileInformationKeeper\MobileInformationKeeper\obj\Debug\MobileInformationKeeper.csproj.CoreCompileInputs.cache
+C:\Users\Web App Develop .Net\Desktop\Himu\MobileInformationKeeper\MobileInformationKeeper\obj\Debug\MobileInformationKeeper.csproj.CopyComplete
+C:\Users\Web App Develop .Net\Desktop\Himu\MobileInformationKeeper\MobileInformationKeeper\obj\Debug\MobileInformationKeeper.dll
+C:\Users\Web App Develop .Net\Desktop\Himu\MobileInformationKeeper\MobileInformationKeeper\obj\Debug\MobileInformationKeeper.pdb
+C:\Users\Kakashi\Desktop\MobileInformationKeeper\MobileInformationKeeper\bin\MobileInformationKeeper.dll.config
+C:\Users\Kakashi\Desktop\MobileInformationKeeper\MobileInformationKeeper\bin\MobileInformationKeeper.dll
+C:\Users\Kakashi\Desktop\MobileInformationKeeper\MobileInformationKeeper\bin\MobileInformationKeeper.pdb
+C:\Users\Kakashi\Desktop\MobileInformationKeeper\MobileInformationKeeper\bin\roslyn\csc.exe
+C:\Users\Kakashi\Desktop\MobileInformationKeeper\MobileInformationKeeper\bin\roslyn\csc.exe.config
+C:\Users\Kakashi\Desktop\MobileInformationKeeper\MobileInformationKeeper\bin\roslyn\csc.rsp
+C:\Users\Kakashi\Desktop\MobileInformationKeeper\MobileInformationKeeper\bin\roslyn\csi.exe
+C:\Users\Kakashi\Desktop\MobileInformationKeeper\MobileInformationKeeper\bin\roslyn\csi.exe.config
+C:\Users\Kakashi\Desktop\MobileInformationKeeper\MobileInformationKeeper\bin\roslyn\csi.rsp
+C:\Users\Kakashi\Desktop\MobileInformationKeeper\MobileInformationKeeper\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Kakashi\Desktop\MobileInformationKeeper\MobileInformationKeeper\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Kakashi\Desktop\MobileInformationKeeper\MobileInformationKeeper\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Kakashi\Desktop\MobileInformationKeeper\MobileInformationKeeper\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Kakashi\Desktop\MobileInformationKeeper\MobileInformationKeeper\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Kakashi\Desktop\MobileInformationKeeper\MobileInformationKeeper\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Kakashi\Desktop\MobileInformationKeeper\MobileInformationKeeper\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Kakashi\Desktop\MobileInformationKeeper\MobileInformationKeeper\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Kakashi\Desktop\MobileInformationKeeper\MobileInformationKeeper\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Kakashi\Desktop\MobileInformationKeeper\MobileInformationKeeper\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Kakashi\Desktop\MobileInformationKeeper\MobileInformationKeeper\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Kakashi\Desktop\MobileInformationKeeper\MobileInformationKeeper\bin\roslyn\System.AppContext.dll
+C:\Users\Kakashi\Desktop\MobileInformationKeeper\MobileInformationKeeper\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Kakashi\Desktop\MobileInformationKeeper\MobileInformationKeeper\bin\roslyn\System.Console.dll
+C:\Users\Kakashi\Desktop\MobileInformationKeeper\MobileInformationKeeper\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Kakashi\Desktop\MobileInformationKeeper\MobileInformationKeeper\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Kakashi\Desktop\MobileInformationKeeper\MobileInformationKeeper\bin\roslyn\System.IO.Compression.dll
+C:\Users\Kakashi\Desktop\MobileInformationKeeper\MobileInformationKeeper\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Kakashi\Desktop\MobileInformationKeeper\MobileInformationKeeper\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Kakashi\Desktop\MobileInformationKeeper\MobileInformationKeeper\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Kakashi\Desktop\MobileInformationKeeper\MobileInformationKeeper\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Kakashi\Desktop\MobileInformationKeeper\MobileInformationKeeper\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Kakashi\Desktop\MobileInformationKeeper\MobileInformationKeeper\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Kakashi\Desktop\MobileInformationKeeper\MobileInformationKeeper\bin\roslyn\System.Security.Claims.dll
+C:\Users\Kakashi\Desktop\MobileInformationKeeper\MobileInformationKeeper\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Kakashi\Desktop\MobileInformationKeeper\MobileInformationKeeper\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Kakashi\Desktop\MobileInformationKeeper\MobileInformationKeeper\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Kakashi\Desktop\MobileInformationKeeper\MobileInformationKeeper\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Kakashi\Desktop\MobileInformationKeeper\MobileInformationKeeper\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Kakashi\Desktop\MobileInformationKeeper\MobileInformationKeeper\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Kakashi\Desktop\MobileInformationKeeper\MobileInformationKeeper\bin\roslyn\System.ValueTuple.dll
+C:\Users\Kakashi\Desktop\MobileInformationKeeper\MobileInformationKeeper\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Kakashi\Desktop\MobileInformationKeeper\MobileInformationKeeper\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Kakashi\Desktop\MobileInformationKeeper\MobileInformationKeeper\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Kakashi\Desktop\MobileInformationKeeper\MobileInformationKeeper\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Kakashi\Desktop\MobileInformationKeeper\MobileInformationKeeper\bin\roslyn\vbc.exe
+C:\Users\Kakashi\Desktop\MobileInformationKeeper\MobileInformationKeeper\bin\roslyn\vbc.exe.config
+C:\Users\Kakashi\Desktop\MobileInformationKeeper\MobileInformationKeeper\bin\roslyn\vbc.rsp
+C:\Users\Kakashi\Desktop\MobileInformationKeeper\MobileInformationKeeper\bin\roslyn\VBCSCompiler.exe
+C:\Users\Kakashi\Desktop\MobileInformationKeeper\MobileInformationKeeper\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Kakashi\Desktop\MobileInformationKeeper\MobileInformationKeeper\bin\Antlr3.Runtime.dll
+C:\Users\Kakashi\Desktop\MobileInformationKeeper\MobileInformationKeeper\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Kakashi\Desktop\MobileInformationKeeper\MobileInformationKeeper\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Kakashi\Desktop\MobileInformationKeeper\MobileInformationKeeper\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Kakashi\Desktop\MobileInformationKeeper\MobileInformationKeeper\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Kakashi\Desktop\MobileInformationKeeper\MobileInformationKeeper\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Kakashi\Desktop\MobileInformationKeeper\MobileInformationKeeper\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Kakashi\Desktop\MobileInformationKeeper\MobileInformationKeeper\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Kakashi\Desktop\MobileInformationKeeper\MobileInformationKeeper\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Kakashi\Desktop\MobileInformationKeeper\MobileInformationKeeper\bin\Newtonsoft.Json.dll
+C:\Users\Kakashi\Desktop\MobileInformationKeeper\MobileInformationKeeper\bin\System.Web.Optimization.dll
+C:\Users\Kakashi\Desktop\MobileInformationKeeper\MobileInformationKeeper\bin\WebGrease.dll
+C:\Users\Kakashi\Desktop\MobileInformationKeeper\MobileInformationKeeper\bin\System.Web.Optimization.xml
+C:\Users\Kakashi\Desktop\MobileInformationKeeper\MobileInformationKeeper\bin\Newtonsoft.Json.xml
+C:\Users\Kakashi\Desktop\MobileInformationKeeper\MobileInformationKeeper\bin\Antlr3.Runtime.pdb
+C:\Users\Kakashi\Desktop\MobileInformationKeeper\MobileInformationKeeper\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Kakashi\Desktop\MobileInformationKeeper\MobileInformationKeeper\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Kakashi\Desktop\MobileInformationKeeper\MobileInformationKeeper\obj\Debug\MobileInformationKeeper.csprojAssemblyReference.cache
+C:\Users\Kakashi\Desktop\MobileInformationKeeper\MobileInformationKeeper\obj\Debug\MobileInformationKeeper.csproj.CoreCompileInputs.cache
+C:\Users\Kakashi\Desktop\MobileInformationKeeper\MobileInformationKeeper\obj\Debug\MobileInformationKeeper.csproj.CopyComplete
+C:\Users\Kakashi\Desktop\MobileInformationKeeper\MobileInformationKeeper\obj\Debug\MobileInformationKeeper.dll
+C:\Users\Kakashi\Desktop\MobileInformationKeeper\MobileInformationKeeper\obj\Debug\MobileInformationKeeper.pdb
